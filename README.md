@@ -1,3 +1,3 @@
 # TangoZenFoneARBugSample
 
-![result](https://github.com/inuko/media/blob/media/capture.gif)
+![result](https://github.com/inuko/TangoZenFoneARBugSample/blob/media/capture.gif)
