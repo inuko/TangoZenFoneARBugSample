@@ -13,4 +13,5 @@
 6. In the first screen, select "Player" and start learning ADF. 
   TangoApplication#Startup(null) -> "Failed to connect Tango Service."
 7. Terminate the application and start it.
-8. In the first screen, select "Player" and start learning ADF. Tango Core will be stopped.
+8. In the first screen, select "Player" and start learning ADF. 
+  Tango Core will be stopped.
