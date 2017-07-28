@@ -1,5 +1,7 @@
 # TangoZenFoneARBugSample
 
+Tango Core version is "1.55:2017.06.23-release-m20-release-0-g571120a1:240016802:stable"
+
 ![result](https://github.com/inuko/TangoZenFoneARBugSample/blob/media/capture.gif)
 
 1. Launch the application.
