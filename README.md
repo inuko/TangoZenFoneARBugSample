@@ -1,6 +1,6 @@
 # TangoZenFoneARBugSample
 
-Tango Core version is "1.55:2017.06.23-release-m20-release-0-g571120a1:240016802:stable"
+Tango Core version is "1.55:2017.07.25-release-m21-release-0-g659c03f5:240017564:stable"
 
 ![result](https://github.com/inuko/TangoZenFoneARBugSample/blob/media/capture.gif)
 
