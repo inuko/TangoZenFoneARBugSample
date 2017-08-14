@@ -3,6 +3,7 @@
 Tango Core version is "1.55:2017.07.25-release-m21-release-0-g659c03f5:240017564:stable"
 
 ZenFone AR
+
 ![result](https://github.com/inuko/TangoZenFoneARBugSample/blob/media/capture.gif)
 
 1. Launch the application.
@@ -21,7 +22,9 @@ ZenFone AR
 
 
 PHAB2 Pro
+
 ![result](https://github.com/inuko/TangoZenFoneARBugSample/blob/phab2pro/capture.gif)
+
 1. Launch the application.
 2. In the first screen, select "Player" and start learning ADF.
 <BR> TangoApplication#Startup(null) It worked.
